@@ -37,7 +37,11 @@
 				<configuration>
 					<archive>
 						<manifest>
+<<<<<<< HEAD
 							<mainClass>core.Selenium</mainClass>
+=======
+							<mainClass>core.Title_Validation_PF</mainClass>
+>>>>>>> abb246781b862fe242c6f1ca0d58553e16e07eca
 						</manifest>
 					</archive>
 					<descriptorRefs>
@@ -56,4 +60,8 @@
 			</plugin>
 		</plugins>
 	</build>
+<<<<<<< HEAD
 </project>
+=======
+</project>
+>>>>>>> abb246781b862fe242c6f1ca0d58553e16e07eca
